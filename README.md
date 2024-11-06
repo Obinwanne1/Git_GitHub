@@ -18,3 +18,12 @@ The <title> element specifies a title for the HTML page (which is shown in the b
 The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 The <h1> element defines a large heading
 The <p> element defines a paragraph
+
+What is an HTML Element?
+An HTML element is defined by a start tag, some content, and an end tag:
+
+<tagname> Content goes here... </tagname>
+The HTML element is everything from the start tag to the end tag:
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
